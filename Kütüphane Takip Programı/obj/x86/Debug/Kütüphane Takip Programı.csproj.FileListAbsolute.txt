@@ -1,0 +1,108 @@
+C:\Users\W7\Desktop\Kütüphane Takip Programı\Kütüphane Takip Programı\bin\x86\Debug\Kütüphane Takip Programı.exe
+C:\Users\W7\Desktop\Kütüphane Takip Programı\Kütüphane Takip Programı\bin\x86\Debug\Kütüphane Takip Programı.pdb
+C:\Users\W7\Desktop\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\W7\Desktop\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\WindowsFormsApplication2.Anasayfa.resources
+C:\Users\W7\Desktop\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\WindowsFormsApplication2.KayıtAra.resources
+C:\Users\W7\Desktop\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\WindowsFormsApplication2.KayıtEkleme.resources
+C:\Users\W7\Desktop\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\WindowsFormsApplication2.KayıtGüncelle.resources
+C:\Users\W7\Desktop\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\WindowsFormsApplication2.Kitap_Arama.resources
+C:\Users\W7\Desktop\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\WindowsFormsApplication2.KitapEkle.resources
+C:\Users\W7\Desktop\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\WindowsFormsApplication2.KitapGüncelle.resources
+C:\Users\W7\Desktop\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\WindowsFormsApplication2.KitapTeslim.resources
+C:\Users\W7\Desktop\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\WindowsFormsApplication2.OgrenciEkle.resources
+C:\Users\W7\Desktop\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\WindowsFormsApplication2.OkuyucuAra.resources
+C:\Users\W7\Desktop\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\WindowsFormsApplication2.OkuyucuGüncelle.resources
+C:\Users\W7\Desktop\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\WindowsFormsApplication2.ProgramcıHakkında.resources
+C:\Users\W7\Desktop\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\WindowsFormsApplication2.ProgramHakkında.resources
+C:\Users\W7\Desktop\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\W7\Desktop\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\Kütüphane Takip Programı.csproj.GenerateResource.Cache
+C:\Users\W7\Desktop\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\Kütüphane Takip Programı.exe
+C:\Users\W7\Desktop\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\Kütüphane Takip Programı.pdb
+C:\Users\W7\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\Kütüphane Takip Programı.exe
+C:\Users\W7\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\Kütüphane Takip Programı.pdb
+C:\Users\W7\Kütüphane Takip Programı\Kütüphane Takip Programı\bin\x86\Debug\Kütüphane Takip Programı.exe
+C:\Users\W7\Kütüphane Takip Programı\Kütüphane Takip Programı\bin\x86\Debug\Kütüphane Takip Programı.pdb
+C:\Users\W7\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\W7\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\WindowsFormsApplication2.Anasayfa.resources
+C:\Users\W7\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\WindowsFormsApplication2.KayıtAra.resources
+C:\Users\W7\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\WindowsFormsApplication2.KayıtEkleme.resources
+C:\Users\W7\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\WindowsFormsApplication2.KayıtGüncelle.resources
+C:\Users\W7\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\WindowsFormsApplication2.Kitap_Arama.resources
+C:\Users\W7\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\WindowsFormsApplication2.KitapEkle.resources
+C:\Users\W7\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\WindowsFormsApplication2.KitapGüncelle.resources
+C:\Users\W7\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\WindowsFormsApplication2.KitapTeslim.resources
+C:\Users\W7\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\WindowsFormsApplication2.OgrenciEkle.resources
+C:\Users\W7\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\WindowsFormsApplication2.OkuyucuAra.resources
+C:\Users\W7\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\WindowsFormsApplication2.OkuyucuGüncelle.resources
+C:\Users\W7\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\WindowsFormsApplication2.ProgramcıHakkında.resources
+C:\Users\W7\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\WindowsFormsApplication2.ProgramHakkında.resources
+C:\Users\W7\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\W7\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\Kütüphane Takip Programı.csproj.GenerateResource.Cache
+D:\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\Kütüphane Takip Programı.exe
+D:\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\Kütüphane Takip Programı.pdb
+D:\Kütüphane Takip Programı\Kütüphane Takip Programı\bin\x86\Debug\Kütüphane Takip Programı.exe
+D:\Kütüphane Takip Programı\Kütüphane Takip Programı\bin\x86\Debug\Kütüphane Takip Programı.pdb
+D:\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\WindowsFormsApplication2.Anasayfa.resources
+D:\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\WindowsFormsApplication2.KayıtAra.resources
+D:\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\WindowsFormsApplication2.KayıtEkleme.resources
+D:\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\WindowsFormsApplication2.KayıtGüncelle.resources
+D:\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\WindowsFormsApplication2.Kitap_Arama.resources
+D:\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\WindowsFormsApplication2.KitapEkle.resources
+D:\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\WindowsFormsApplication2.KitapGüncelle.resources
+D:\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\WindowsFormsApplication2.KitapTeslim.resources
+D:\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\WindowsFormsApplication2.OgrenciEkle.resources
+D:\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\WindowsFormsApplication2.OkuyucuAra.resources
+D:\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\WindowsFormsApplication2.OkuyucuGüncelle.resources
+D:\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\WindowsFormsApplication2.ProgramcıHakkında.resources
+D:\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\WindowsFormsApplication2.ProgramHakkında.resources
+D:\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\Kütüphane Takip Programı.csproj.GenerateResource.Cache
+C:\Documents and Settings\user\Desktop\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\Kütüphane Takip Programı.exe
+C:\Documents and Settings\user\Desktop\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\Kütüphane Takip Programı.pdb
+C:\Documents and Settings\user\Desktop\Kütüphane Takip Programı\Kütüphane Takip Programı\bin\x86\Debug\Kütüphane Takip Programı.exe
+C:\Documents and Settings\user\Desktop\Kütüphane Takip Programı\Kütüphane Takip Programı\bin\x86\Debug\Kütüphane Takip Programı.pdb
+C:\Documents and Settings\user\Desktop\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\Desktop\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\WindowsFormsApplication2.Anasayfa.resources
+C:\Documents and Settings\user\Desktop\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\WindowsFormsApplication2.KayıtAra.resources
+C:\Documents and Settings\user\Desktop\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\WindowsFormsApplication2.KayıtEkleme.resources
+C:\Documents and Settings\user\Desktop\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\WindowsFormsApplication2.KayıtGüncelle.resources
+C:\Documents and Settings\user\Desktop\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\WindowsFormsApplication2.Kitap_Arama.resources
+C:\Documents and Settings\user\Desktop\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\WindowsFormsApplication2.KitapEkle.resources
+C:\Documents and Settings\user\Desktop\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\WindowsFormsApplication2.KitapGüncelle.resources
+C:\Documents and Settings\user\Desktop\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\WindowsFormsApplication2.KitapTeslim.resources
+C:\Documents and Settings\user\Desktop\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\WindowsFormsApplication2.OgrenciEkle.resources
+C:\Documents and Settings\user\Desktop\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\WindowsFormsApplication2.OkuyucuAra.resources
+C:\Documents and Settings\user\Desktop\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\WindowsFormsApplication2.OkuyucuGüncelle.resources
+C:\Documents and Settings\user\Desktop\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\WindowsFormsApplication2.ProgramcıHakkında.resources
+C:\Documents and Settings\user\Desktop\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\WindowsFormsApplication2.ProgramHakkında.resources
+C:\Documents and Settings\user\Desktop\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Documents and Settings\user\Desktop\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\Kütüphane Takip Programı.csproj.GenerateResource.Cache
+C:\Users\W7\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\WindowsFormsApplication2.EmanetKitap.resources
+C:\Users\W7\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\WindowsFormsApplication2.Giris.resources
+C:\Users\W7\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\WindowsFormsApplication2.Web.resources
+G:\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\Kütüphane Takip Programı.exe
+G:\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\Kütüphane Takip Programı.pdb
+F:\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\Kütüphane Takip Programı.exe
+F:\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\Kütüphane Takip Programı.pdb
+F:\Kütüphane Takip Programı\Kütüphane Takip Programı\bin\x86\Debug\Kütüphane Takip Programı.exe
+F:\Kütüphane Takip Programı\Kütüphane Takip Programı\bin\x86\Debug\Kütüphane Takip Programı.pdb
+F:\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\WindowsFormsApplication2.Anasayfa.resources
+F:\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\WindowsFormsApplication2.EmanetKitap.resources
+F:\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\WindowsFormsApplication2.Giris.resources
+F:\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\WindowsFormsApplication2.KayıtAra.resources
+F:\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\WindowsFormsApplication2.KayıtEkleme.resources
+F:\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\WindowsFormsApplication2.KayıtGüncelle.resources
+F:\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\WindowsFormsApplication2.Kitap_Arama.resources
+F:\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\WindowsFormsApplication2.KitapEkle.resources
+F:\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\WindowsFormsApplication2.KitapGüncelle.resources
+F:\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\WindowsFormsApplication2.KitapTeslim.resources
+F:\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\WindowsFormsApplication2.OgrenciEkle.resources
+F:\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\WindowsFormsApplication2.OkuyucuAra.resources
+F:\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\WindowsFormsApplication2.OkuyucuGüncelle.resources
+F:\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\WindowsFormsApplication2.ProgramcıHakkında.resources
+F:\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\WindowsFormsApplication2.ProgramHakkında.resources
+F:\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+F:\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\WindowsFormsApplication2.Web.resources
+F:\Kütüphane Takip Programı\Kütüphane Takip Programı\obj\x86\Debug\Kütüphane Takip Programı.csproj.GenerateResource.Cache
