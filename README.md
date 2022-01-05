@@ -1,2 +1,2 @@
 ﻿# KutuphaneTakipProgrami
-C# ve Access kullanılarak kütüphane stok takip programı
+C# ve MS Access veritabanı kullanılarak kütüphane stok takip programı yapılmıştır.
